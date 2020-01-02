@@ -1,0 +1,29 @@
+_repo: The-Contact-Point_60928
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sharkey, Jack
+    alias: Sharkey, John Michael
+    birthdate: 1931
+    deathdate: 1992
+    gutenberg_agent_id: '32269'
+    url: http://www.gutenberg.org/2009/agents/32269
+description: ''
+gutenberg_issued: '2019-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60928'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Outer space -- Exploration -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Mars (Planet) -- Fiction'
+- GITenberg
+title: The Contact Point
+url: http://www.gutenberg.org/ebooks/60928
